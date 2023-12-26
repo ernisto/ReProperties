@@ -1,0 +1,12 @@
+{
+  "name": "ReProperties",
+  "tree": {
+    "$className": "DataModel",
+    
+    "ServerStorage": {
+      "ReProperties": {
+        "$path": "src"
+      }
+    }
+  }
+}
